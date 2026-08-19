@@ -1,0 +1,31 @@
+TEST CASE 1
+Input: 95
+Expected Grade: A
+
+TEST CASE 2
+Input: 85
+Expected Grade: B
+
+TEST CASE 3
+Input: 75
+Expected Grade: C
+
+TEST CASE 4
+Input: 65
+Expected Grade: D
+
+TEST CASE 5
+Input: 45
+Expected Grade: F
+
+TEST CASE 6
+Input: 105
+Expected: Invalid input
+
+TEST CASE 7
+Input: -10
+Expected: Invalid input
+
+TEST CASE 8
+Input: abc
+Expected: Invalid input
